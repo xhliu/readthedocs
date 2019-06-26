@@ -21,7 +21,7 @@ project = 'readthedocs'
 copyright = '2019, neo'
 author = 'neo'
 
-
+master_doc = 'index'
 # -- General configuration ---------------------------------------------------
 
 # Add any Sphinx extension module names here, as strings. They can be
